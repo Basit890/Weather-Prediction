@@ -55,14 +55,6 @@ jupyter notebook
 
 Open 422_project_weather_predictor.ipynb in Jupyter Notebook and run the cells.
 
-Future Improvements
-
-Improve accuracy using Deep Learning models (LSTMs, CNNs).
-
-Integrate real-time weather APIs for live predictions.
-
-Deploy as a web app (Flask/Django + React).
-
 Contact
 
 📧 Email: basitibrahim890@gmail.com
