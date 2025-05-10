@@ -48,7 +48,7 @@ Installation & Usage
 
 To run the project locally, follow these steps:
 
-git clone https://github.com/basitibrahim890/weather-predictor.git  
+git clone https://github.com/Basit890/weather-predictor.git  
 cd weather-predictor  
 pip install -r requirements.txt  
 jupyter notebook  
