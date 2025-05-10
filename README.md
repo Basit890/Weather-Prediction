@@ -1,4 +1,4 @@
-AI Weather Predictor 🌦️
+AI Weather Predictor 
 
 Problem Statement
 
